@@ -1,0 +1,125 @@
+body{
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+#login{
+    max-width: 400px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 1px 20px 30px rgb(0, 0, 1);
+}
+
+h3{
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#name{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 7px;
+    border: 1px solid black;
+    padding: 7px;
+    
+}
+
+.name{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+#password{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 7px;
+    border: 1px solid black;
+    padding: 7px;
+}
+
+button{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 7px;
+    border: 2px solid black;
+    padding: 7px;
+    font-size: 22px;
+}
+
+#password1{
+    text-decoration: none;
+    margin-left: 200px;
+    padding: 5PX;
+    color: black;
+    font-size: 17px;
+}
+
+#password1:hover{
+    color: blue;
+}
+
+
+/* forgotpassword */
+
+#forgot{
+    max-width: 400px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 1px 20px 30px rgb(0, 0, 1);
+}
+
+#newpassword{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 7px;
+    border: 1px solid black;
+    padding: 7px;
+
+}
+h1{
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+/* signup */
+
+#signup{
+    text-decoration: none;
+    margin-left: 200px;
+    padding: 5PX;
+    color: black;
+    font-size: 17px;
+}
+#signup:hover{
+    color: blue;
+}
+
+
+/* show my ticket  /cancel ticket change travel date */
+
+
+#ticket{
+    max-width: 400px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 1px 20px 30px rgb(0, 0, 1);
+}
+
+#view{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 7px;
+    border: 1px solid black;
+    padding: 7px;
+
+}
